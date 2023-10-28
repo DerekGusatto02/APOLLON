@@ -21,3 +21,10 @@ La valutazione fineale è stata 29/30.
 
 > > *NOTA*: il repository è stato creato a posteriori dopo la fine del progetto
 
+
+## ABSTRACT 
+Apollon è una piattaforma di streaming online di musica che offre agli utenti un vasto catalogo di brani musicali da ascoltare in streaming.
+Fondata nel 2021, Apollon si è rapidamente affermata come una delle principali piattaforme di streaming musicale grazie alla sua vasta libreria musicale e alle sue caratteristiche innovative. Apollon offre agli utenti la possibilità di accedere a milioni di brani provenienti da vari generi musicali, inclusi pop, rock, rap, blues, jazz e molti altri.
+Gli utenti possono cercare e riprodurre brani specifici, creare playlist personalizzate (pubbliche e/o private) e seguire gli artisti preferiti.
+La piattaforma è disponibile su diversi dispositivi, inclusi dispositivi mobili (iOS e Android) e desktop, consentendo agli utenti di accedere alla loro musica preferita ovunque si trovino.
+È diventata una scelta popolare per gli appassionati di musica che cercano un'esperienza di ascolto completa e coinvolgente.
