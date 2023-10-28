@@ -19,3 +19,5 @@ Il Progetto deve inoltre includere:
 
 La valutazione fineale è stata 29/30.
 
+> > *NOTA*: il repository è stato creato a posteriori dopo la fine del progetto
+
