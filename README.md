@@ -2,7 +2,7 @@
 ## Svolgimento progetto per il corso "Basi di dati" @UniPD 2022/23
 
 APOLLON è il progetto sviluppato per il corso di "Basi di dati" presso l'Università di Padova durante l'anno accademico 2022/23: il progetto consiste nella progettazione e nell’implementazione di una base di dati riguardante una organizzazione a scelta dello studente.
-Il progetto è stato svolto con Ane-Marie Margarit.
+Il progetto è stato svolto con [Ane-Marie Margarit](https://github.com/AneMarie98).
 
 ### Criteri minimi di accettabilità
 Per essere accettabile un progetto deve possedere i seguenti requisiti minimi:
@@ -17,7 +17,7 @@ Il Progetto deve inoltre includere:
 * introdurre almeno un indice secondario significativo: ipotizzare un caso d’uso su larga scala e motivare la scelta dell’indice/degli indici.
 
 
-La valutazione fineale è stata 29/30.
+#### La valutazione fineale è stata 29/30.
 
 > > *NOTA*: il repository è stato creato a posteriori dopo la fine del progetto
 
